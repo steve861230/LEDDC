@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+dE:\Modelsim\examples
+vLEDDC
+Vc_6j^JehXY<lOI2ZbRD7c2
+r1
+!s85 0
+31
+IcBOekZ4`:9Z?:GTh511]e1
+Z0 dC:\Users\USER\Desktop\icc2017cb
+w1556132706
+8C:/Users/USER/Desktop/icc2017cb/LEDDC.v
+FC:/Users/USER/Desktop/icc2017cb/LEDDC.v
+L0 2
+Z1 OL;L;10.1c;51
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/USER/Desktop/icc2017cb/LEDDC.v|
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@l@e@d@d@c
+!i10b 1
+!s100 9La7a1IP0Y>kGzNY:`92k0
+!s108 1556132717.192000
+!s107 C:/Users/USER/Desktop/icc2017cb/LEDDC.v|
+vtest
+Vk<3<[f=78GX=_HO53D;7>3
+r1
+31
+I<EW>i7KG[W]lI_BSO1=^52
+Z2 dC:\Users\USER\Desktop\icc2017cb
+w1492162512
+8testfixture_60fps.v
+Ftestfixture_60fps.v
+L0 10
+R1
+o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 C6an3n`[RbboS5SAC]gb82
+!s108 1556127818.336000
+!s107 testfixture_60fps.v|
+!s90 -reportprogress|300|testfixture_60fps.v|
+!s85 0
+!i10b 1
